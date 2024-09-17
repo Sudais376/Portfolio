@@ -6,8 +6,8 @@ import Footer from '../Footer'
 const Projects = () => {
   return (
     <>
-    <div className='flex justify-center mt-4'>
-        <img className='h-projectsImageHeight w-projectsImageWidth object-cover' src="/Project-Hero.png"  alt="" />
+    <div className='flex justify-center'>
+        <img className='h-heroHeight w-projectsImageWidth object-cover' src="/Project-Hero.png"  alt="" />
         </div>
     <Main />
     </>

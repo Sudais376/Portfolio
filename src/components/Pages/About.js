@@ -7,7 +7,7 @@ const About = () => {
         <div className="relative">
           <img
             className="h-aboutHeight xl:w-aboutUsImageWidth object-cover rounded-lg"
-            src="/About3.png"
+            src="/About.png"
             width={1600}
             alt=""
           />
