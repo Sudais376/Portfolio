@@ -6,8 +6,8 @@ const Hero = () => {
       <div className="max-w-maxOverallWidth mx-auto">
         <div className="relative">
           <img
-            className="w-full h-heroHeight object-cover opacity-heroOpacity brightness-50"
-            src="/Hero2.jpg"
+            className="w-full h-heroHeight object-cover"
+            src="/Hero.png"
             alt=""
           />
           <div className="absolute top-0 left-0 w-full h-heroHeight flex justify-center py-20 md:py-40">

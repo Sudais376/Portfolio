@@ -27,7 +27,7 @@ const Main = () => {
             <h4 className="text-3xl font-semibold py-3 text-headingAndButtonTextColor">Befiler</h4>
             <p className="text-sm pb-3 text-paragraphsTextColor">Befiler simplifies tax filing with a focus on user-friendly design and efficient functionality for individuals and businesses.</p>
             <div className="flex gap-4">
-            <button className="bg-mainJsFirstButtonBg hover:bg-mainJsFirstButtonHoverBg w-buttonWidth text-headingAndButtonTextColor hover:border border-green-300 font-bold rounded-md px-4 py-1"><a href="https://www.facebook.com/61564082033501/videos/466258262843593" target="_blank">View Demo</a></button>
+            <button className="bg-mainJsFirstButtonBg hover:bg-mainJsFirstButtonHoverBg w-buttonWidth text-headingAndButtonTextColor hover:border border-green-300 font-bold rounded-md px-4 py-1"><a href="https://befiler-rouge.vercel.app/" target="_blank">View Demo</a></button>
             <button className="bg-mainJsSecondButtonBg w-buttonWidth text-headingAndButtonTextColor border border-green-300 hover:bg-mainJsSecondButtonHoverBg hover:border-transparent font-bold rounded-md px-4 py-1"><a href="https://github.com/Sudais376/PROJECTS/tree/main/PROJECT%207%20BEFILERR" target="_blank">Source Code</a></button>
             </div>
           </div>
@@ -44,7 +44,7 @@ const Main = () => {
             <h4 className="text-3xl font-semibold py-3 text-headingAndButtonTextColor">Startbox</h4>
             <p className="text-sm pb-3 text-paragraphsTextColor">Startbox is a startup toolkit designed to help new businesses with essential tools and resources in a user-friendly interface.</p>
             <div className="flex gap-4">
-            <button className="bg-mainJsFirstButtonBg hover:bg-mainJsFirstButtonHoverBg w-buttonWidth text-headingAndButtonTextColor hover:border border-green-300 font-bold rounded-md px-4 py-1"><a href="https://www.facebook.com/61564082033501/videos/419058850587792" target="_blank">View Demo</a></button>
+            <button className="bg-mainJsFirstButtonBg hover:bg-mainJsFirstButtonHoverBg w-buttonWidth text-headingAndButtonTextColor hover:border border-green-300 font-bold rounded-md px-4 py-1"><a href="https://startbox-phi.vercel.app/" target="_blank">View Demo</a></button>
             <button className="bg-mainJsSecondButtonBg w-buttonWidth text-headingAndButtonTextColor border border-green-300 hover:bg-mainJsSecondButtonHoverBg hover:border-transparent font-bold rounded-md px-4 py-1"><a href="https://github.com/Sudais376/PROJECTS/tree/main/PROJECT%205%20STATBOX" target="_blank">Source Code</a></button>
             </div>
           </div>
@@ -61,7 +61,7 @@ const Main = () => {
             <h4 className="text-3xl font-semibold py-3 text-headingAndButtonTextColor">FreshCart</h4>
             <p className="text-sm pb-3 text-paragraphsTextColor">FreshCart is an e-commerce platform offering a seamless shopping experience with intuitive navigation and fresh design.</p>
             <div className="flex gap-4">
-            <button className="bg-mainJsFirstButtonBg hover:bg-mainJsFirstButtonHoverBg w-buttonWidth text-headingAndButtonTextColor hover:border border-green-300 font-bold rounded-md px-4 py-1"><a href="https://www.facebook.com/61564082033501/videos/482143627756686" target="_blank">View Demo</a></button>
+            <button className="bg-mainJsFirstButtonBg hover:bg-mainJsFirstButtonHoverBg w-buttonWidth text-headingAndButtonTextColor hover:border border-green-300 font-bold rounded-md px-4 py-1"><a href="https://fresh-cart-xi-liart.vercel.app/" target="_blank">View Demo</a></button>
             <button className="bg-mainJsSecondButtonBg w-buttonWidth text-headingAndButtonTextColor border border-green-300 hover:bg-mainJsSecondButtonHoverBg hover:border-transparent font-bold rounded-md px-4 py-1"><a href="https://github.com/Sudais376/PROJECTS/tree/main/PROJECT%203%20FRESHCART" target="_blank">Source Code</a></button>
             </div>
           </div>
@@ -95,7 +95,7 @@ const Main = () => {
             <h4 className="text-3xl font-semibold py-3 text-headingAndButtonTextColor">Geeks</h4>
             <p className="text-sm pb-3 text-paragraphsTextColor">Geeks is a community platform for tech enthusiasts, featuring a modern layout and engaging content for learning and networking.</p>
             <div className="flex gap-4">
-            <button className="bg-mainJsFirstButtonBg hover:bg-mainJsFirstButtonHoverBg w-buttonWidth text-headingAndButtonTextColor hover:border border-green-300 font-bold rounded-md px-4 py-1"><a href="https://www.facebook.com/61564082033501/videos/520680710322174" target="_blank">View Demo</a></button>
+            <button className="bg-mainJsFirstButtonBg hover:bg-mainJsFirstButtonHoverBg w-buttonWidth text-headingAndButtonTextColor hover:border border-green-300 font-bold rounded-md px-4 py-1"><a href="https://geeks-eight.vercel.app/" target="_blank">View Demo</a></button>
             <button className="bg-mainJsSecondButtonBg w-buttonWidth text-headingAndButtonTextColor border border-green-300 hover:bg-mainJsSecondButtonHoverBg hover:border-transparent font-bold rounded-md px-4 py-1"><a href="https://github.com/Sudais376/PROJECTS/tree/main/PROJECT%204%20GEEKS" target="_blank">Source Code</a></button>
             </div>
           </div>

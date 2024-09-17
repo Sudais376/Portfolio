@@ -4,6 +4,9 @@ const Contact = () => {
 
   return (
     <>
+    <div className='flex justify-center mt-4'>
+        <img className='h-projectsImageHeight w-projectsImageWidth object-cover' src="/Contact.png"  alt="" />
+        </div>
       <div className="py-12 bg-primaryBg max-w-maxOverallWidth mx-auto">
         <div className="m-4">
           <h1 className="text-headingAndButtonTextColor text-2xl md:text-4xl font-semibold md:font-bold text-center pb-6">Contact Us</h1>
