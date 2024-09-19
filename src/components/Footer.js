@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="max-w-footerItemMaxWidth flex flex-col md:flex-row justify-center items-center gap-4">
           <img
             className="rounded-full"
-            src="/Footer.png"
+            src="/Footer.jpg"
             width={100}
             height={100}
             alt=""
